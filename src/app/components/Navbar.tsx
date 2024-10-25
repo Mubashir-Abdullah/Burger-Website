@@ -23,7 +23,7 @@ export default function Navbar() {
                                 />
                                 <FaSearch 
                                     className="w-5 h-5 text-lime-300 absolute right-3 top-1/2 transform -translate-y-1/2 cursor-pointer" 
-                                />
+                              />
                             </div>
                         </div>
 
